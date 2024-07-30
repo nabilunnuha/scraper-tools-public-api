@@ -1,0 +1,26 @@
+[
+  {
+    "path": "./data",
+    "type": "folder",
+    "data": null,
+    "data_type": null
+  },
+  {
+    "path": "./log",
+    "type": "folder",
+    "data": null,
+    "data_type": null
+  },
+  {
+    "path": "./result",
+    "type": "folder",
+    "data": null,
+    "data_type": null
+  },
+  {
+    "path": "./bin",
+    "type": "folder",
+    "data": null,
+    "data_type": null
+  }
+]
