@@ -4,5 +4,12 @@
 		"changes": [
 			"Release"
 		]
+	},
+	{
+		"version": "1.0.2",
+		"changes": [
+			"Add qlobot csv output",
+			"Add keyword mode url"
+		]
 	}
 ]
