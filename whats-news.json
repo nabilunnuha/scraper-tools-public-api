@@ -11,5 +11,11 @@
 			"Add qlobot csv output",
 			"Add keyword mode url"
 		]
+	},
+	{
+		"version": "1.0.3",
+		"changes": [
+			"Re-launch bot"
+		]
 	}
 ]
