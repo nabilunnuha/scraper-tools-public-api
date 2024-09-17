@@ -17,5 +17,12 @@
 		"changes": [
 			"Re-launch bot"
 		]
+	},
+	{
+		"version": "1.0.4",
+		"changes": [
+			"Add export qlobot",
+			"Fix appearance"
+		]
 	}
 ]
