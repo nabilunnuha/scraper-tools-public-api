@@ -24,5 +24,13 @@
 			"Add export qlobot",
 			"Fix appearance"
 		]
+	},
+	{
+		"version": "1.0.5",
+		"changes": [
+			"Add scrape mode shopee (manual)",
+			"Add clean cache / temporary file",
+			"Sedikit merubah tampilan"
+		]
 	}
 ]
